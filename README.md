@@ -5,7 +5,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Python</b>
-  - Game Demos [Procedural Programming](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 - <b>SQL database design and implementation Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
