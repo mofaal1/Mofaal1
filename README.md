@@ -3,6 +3,8 @@
 
 <b>Java Object-Oriented Programming (OOP) Projects</b>
   - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
+  - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
+  - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
 
 <b>Python Projects</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
