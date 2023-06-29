@@ -7,12 +7,12 @@
 - <b>Python</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-- <b>SQL database design and implementation Projects</b>
+- <h2>SQL database design and implementation Projects</h2>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Cybersecurity Projects</b>
+- <h2>Cybersecurity Projects</h2>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
