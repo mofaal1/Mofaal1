@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Object-Oriented Programming (OOP) Projects</b>
-  - [Vehicle tracking application in Java](https://github.com/Mofaal/-VehicleTracker)
+  - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
 
 - <b>Python</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
