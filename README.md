@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohammad Faal! <br/><a href="https://github.com/mofaal">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>, 
+<h1>Hi, I'm Mohammad Faal! <br/><a href="https://github.com/mofaal">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b>Java Object-Oriented Programming (OOP) Projects</b>
