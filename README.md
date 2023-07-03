@@ -8,9 +8,9 @@
 
 <b>Python Projects</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-<h1>Hi, I'm Mohammad Faal! <br/><a href="https://github.com/mofaal">Programmer</a>, <a href="https://linkedin.com/in/mohammadfaal/">Cybersecurity Analyst</a> 
-<h2>👨‍💻 Software Development Projects:</h2>
-<h2>📊 SQL database design and implementation Projects</h2>
+
+<h3>👨‍💻 Software Development Projects:</h2>
+<h3>📊 SQL database design and implementation Projects</h2>
   - [IBM TN3270 Mainframe: Researcher (database creation) in IBM Mainframe using SQL](https://github.com/Mofaal/-VehicleTracker)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
