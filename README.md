@@ -9,7 +9,9 @@
 <b>Python Projects</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<b>📊 SQL database design and implementation Projects</b>
+<h2>📊 Database Projects:</h2>
+
+<b> SQL database design and implementation Projects</b>
 - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
 - [IBM TN3270 Mainframe: Researcher (database creation) in IBM Mainframe using SQL](https://github.com/Mofaal/-VehicleTracker)
 - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
