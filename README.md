@@ -11,7 +11,7 @@
 
 <b>📊 SQL database design and implementation Projects</b>
 - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
-- [IBM TN3270 Mainframe: Researcher (database creation) [in IBM Mainframe using SQL](https://github.com/Mofaal/-VehicleTracker)
+- [IBM TN3270 Mainframe: Researcher (database creation) in IBM Mainframe using SQL](https://github.com/Mofaal/-VehicleTracker)
 - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
