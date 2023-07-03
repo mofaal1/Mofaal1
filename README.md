@@ -3,7 +3,7 @@
 
 <b>Java Object-Oriented Programming (OOP) Projects</b>
   - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
-  - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
+  - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-CompliantLogger)
   - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
 
 <b>Python Projects</b>
