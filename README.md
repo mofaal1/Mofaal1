@@ -1,13 +1,13 @@
 <h1>Hi, I'm Mohammad Faal! <br/><a href="https://github.com/mofaal">Programmer</a>, <a href="https://linkedin.com/in/mohammadfaal/">Cybersecurity Analyst</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<h3>Java Object-Oriented Programming (OOP) Projects</h3>
+<h3>Java Object-Oriented Programming (OOP) Portfolio: A Compilation of My Projects</h3>
 
 - [Personal Project  (Pickup Basketball Program: Digital Scoreboard System Solution)](https://github.com/Mofaal/-VehicleTracker)
 
 - [Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)
 
-- [Learning Projects/ Beginner Projects](https://github.com/Mofaal/-VehicleTracker)
+- [A Compilation of My Learning Projects](https://github.com/Mofaal/-VehicleTracker)
 
 <b>Python Projects</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
