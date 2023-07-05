@@ -9,7 +9,7 @@
 
 - [A Showcase of My Java Learning/Beginner Projects](https://github.com/Mofaal/-VehicleTracker)
 
-<b>Python Projects</b>
+<h3>Python Projects</h3>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📊 Database Projects:</h2>
