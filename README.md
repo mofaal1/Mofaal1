@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 <b>Java Object-Oriented Programming (OOP) Projects</b>
-  - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
+  - [Pickup Basketball Program in Java](https://github.com/Mofaal/-VehicleTracker)
   - [Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)
   - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
 
