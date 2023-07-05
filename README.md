@@ -3,11 +3,11 @@
 
 <h3>Java Object-Oriented Programming (OOP) Projects</h3>
 
-- [Pickup Basketball Program in Java](https://github.com/Mofaal/-VehicleTracker)
+- [Personal Project (Pickup Basketball Program in Java)](https://github.com/Mofaal/-VehicleTracker)
 
 - [Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)
 
-- [Learning Projects in Java](https://github.com/Mofaal/-VehicleTracker)
+- [Learning Projects/ Beginner Projects](https://github.com/Mofaal/-VehicleTracker)
 
 <b>Python Projects</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
