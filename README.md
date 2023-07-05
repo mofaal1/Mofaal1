@@ -5,9 +5,9 @@
 
 - [Personal Project  (Pickup Basketball Program: Digital Scoreboard System Solution)](https://github.com/Mofaal/-VehicleTracker)
 
-- [Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)
+- [Personal Project CapitalFlow Pro: Advanced Financial Tracking and Budget Management System](https://github.com/Mofaal/CompliantLogger)
 
-- [A Compilation of My Learning Projects](https://github.com/Mofaal/-VehicleTracker)
+- [A Showcase of My Java Learning/Beginner Projects](https://github.com/Mofaal/-VehicleTracker)
 
 <b>Python Projects</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
