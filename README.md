@@ -4,7 +4,9 @@
 <h3>Java Object-Oriented Programming (OOP) Projects</h3>
 
 -[Pickup Basketball Program in Java](https://github.com/Mofaal/-VehicleTracker)
+
 -[Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)
+
 -[Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
 
 <b>Python Projects</b>
