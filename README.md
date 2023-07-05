@@ -1,10 +1,11 @@
 <h1>Hi, I'm Mohammad Faal! <br/><a href="https://github.com/mofaal">Programmer</a>, <a href="https://linkedin.com/in/mohammadfaal/">Cybersecurity Analyst</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<b>Java Object-Oriented Programming (OOP) Projects</b>
-  - [Pickup Basketball Program in Java](https://github.com/Mofaal/-VehicleTracker)
-  - [Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)
-  - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
+<h3>Java Object-Oriented Programming (OOP) Projects</h3>
+
+<h3>-[Pickup Basketball Program in Java](https://github.com/Mofaal/-VehicleTracker)</h3>
+<h3>- [Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)</h3>
+<h3>- [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)</h3>
 
 <b>Python Projects</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
