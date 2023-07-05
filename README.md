@@ -7,7 +7,7 @@
 
 - [Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)
 
-- [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
+- [Learning Projects in Java](https://github.com/Mofaal/-VehicleTracker)
 
 <b>Python Projects</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
