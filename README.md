@@ -3,7 +3,7 @@
 
 <h3>Java Object-Oriented Programming (OOP) Projects</h3>
 
-- [Personal Project  (Java Scoreboard for Pickup Basketball Program)](https://github.com/Mofaal/-VehicleTracker)
+- [Personal Project  (Pickup Basketball Program: Digital Scoreboard System Solution)](https://github.com/Mofaal/-VehicleTracker)
 
 - [Compliant Logger Application in Java](https://github.com/Mofaal/CompliantLogger)
 
