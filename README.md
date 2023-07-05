@@ -9,10 +9,9 @@
 
 - [A Showcase of My Java Learning/Beginner Projects](https://github.com/Mofaal/-VehicleTracker)
 
-<h3>Python Projects</h3>
-  - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h3>Python Projects:</h3>
 
-<h2>📊 Database Projects:</h2>
+- [A Showcase of My Java Learning/Beginner Projects](https://github.com/Mofaal/-VehicleTracker)
 
 <b> SQL database design and implementation Projects</b>
 - [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
