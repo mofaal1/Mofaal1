@@ -3,7 +3,7 @@
 <h2>🔐 Cybersecurity Projects</h2>
 
 <b> Cybersecurity Implementation Projects Projects</b>
-- [Intrusion Detection with Snort](https://github.com/Mofaal/-VehicleTracker)
+- [Intrusion Detection with Snort](https://github.com/Mofaal/mofaal-IntrusionDetection/tree/main)
 - [Metasploit Attack and Exploitation](https://github.com/Mofaal/-VehicleTracker)
 - [Network Security Lab - Penetration Testing and Analysis ](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - [Active Directory Implementation and Security project](https://github.com/joshmadakor1/AD_PS)
