@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohammad Faal! <br/><a href="https://github.com/mofaal">Programmer</a>, <a href="https://linkedin.com/in/mohammadfaal/">Cybersecurity Analyst</a> 
+<h1>Hi, I'm Mohammad Faal! <br/><a href="https://github.com/mofaal">Cybersecurity Analyst</a>, <a href="https://linkedin.com/in/mohammadfaal/">Programmer</a> 
 
 <h2>🔐 Cybersecurity Projects</h2>
 
