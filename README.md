@@ -13,22 +13,17 @@
 
 - [A Showcase of My Java Learning/Beginner Projects](https://github.com/Mofaal/-VehicleTracker)
 
-<h2>Database Projects</h2>
-
-<b> SQL database design and implementation Projects</b>
-- [Vehicle Tracking Application in Java](https://github.com/Mofaal/-VehicleTracker)
-- [IBM TN3270 Mainframe: Researcher (database creation) in IBM Mainframe using SQL](https://github.com/Mofaal/-VehicleTracker)
-- [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-
 <h2>🔐 Cybersecurity Projects</h2>
 
-<b> Cybersecurity Implementation Projects </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+<b> Cybersecurity Implementation Projects Projects</b>
+- [Intrusion Detection with Snort](https://github.com/Mofaal/-VehicleTracker)
+- [Metasploit Attack and Exploitation](https://github.com/Mofaal/-VehicleTracker)
+- [Network Security Lab - Penetration Testing and Analysis ](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- [Active Directory Implementation and Security project](https://github.com/joshmadakor1/AD_PS)
+- [DDoS Testing](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
-<b> Cybersecurity Techincal Research</b>
+  
+<c> Cybersecurity Techincal Research</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
