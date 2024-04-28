@@ -30,8 +30,4 @@
 
 - [A Showcase of My Java Learning/Beginner Projects](https://github.com/Mofaal/-VehicleTracker)
 
-
-
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://linkedin.com/in/mohammadfaal
