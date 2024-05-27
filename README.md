@@ -1,9 +1,13 @@
-# Hello, I'm Mohammad Faal
+# Welcome to my GitHub page!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I'm Mohammad Faal, a passionate cybersecurity enthusiast and recent graduate with a Bachelor of Science in Business Computer Information Systems from The University of North Texas. With over two years of hands-on experience in various aspects of cybersecurity, I've developed a diverse skill set encompassing network security, incident response, penetration testing, and more.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Here, you'll find a collection of my projects that showcase my practical knowledge and expertise in cybersecurity. From implementing intrusion detection systems with Snort to conducting penetration tests using Metasploit, each project demonstrates my commitment to continuous learning and practical application of cybersecurity principles.
+
+Explore my projects to gain insights into my technical abilities, problem-solving skills, and dedication to advancing cybersecurity practices. Feel free to reach out if you have any questions or would like to collaborate on cybersecurity-related projects.
+
+Let's connect and build a more secure digital world together!.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
