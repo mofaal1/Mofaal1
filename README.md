@@ -1,9 +1,7 @@
 # Welcome to my GitHub page!
 <a href="https://www.linkedin.com/in/mohammadfaal/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm Mohammad Faal, a cybersecurity enthusiast and recent graduate with hands-on experience in network security, incident response, and penetration testing. Explore my projects to see how I apply my skills in practical cybersecurity scenarios. Let's connect and work towards a more secure digital world!
-
-Let's connect and build a more secure digital world together!
+I'm Mohammad Faal, a cybersecurity enthusiast and recent graduate with hands on experience in network security, incident response, and penetration testing. Explore my projects to see how I apply my skills in practical cybersecurity scenarios.
 
 ## Objective
 
