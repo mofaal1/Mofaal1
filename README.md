@@ -10,20 +10,18 @@ Let's connect and build a more secure digital world together!
 To apply my education in Business Computer Information Systems and my diverse technical skills in cybersecurity to contribute effectively as a Cyber Security Analyst. With experience in implementing security protocols, incident response, and network security, I aim to enhance organizational security posture and mitigate emerging cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Rule-Based Intrusion Detection                | <a href="https://google.com">Detection Lab</a>|
+| Penetration Testing Techniques                | <a href="https://google.com">Detection Lab</a>|
+| Trojan Deployment and Rootkit Implementation  | SOC Automation Lab|
+| Designing and implementing Active Directory structures  | SOC Automation Lab|
+| Configuration of MySQL database               | SOC Automation Lab|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -45,7 +43,6 @@ To apply my education in Business Computer Information Systems and my diverse te
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
