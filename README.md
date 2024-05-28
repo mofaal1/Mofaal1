@@ -19,7 +19,7 @@ To apply my education in Business Computer Information Systems and my diverse te
 | Configuration of MySQL database               | SOC Automation Lab|
 
 
-## Tools
+## Tools I've utilized
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -38,9 +38,9 @@ To apply my education in Business Computer Information Systems and my diverse te
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Certifications
+## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/693ba802-535b-4c58-9cd3-f9de4a36f18c/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
