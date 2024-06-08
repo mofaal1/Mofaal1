@@ -15,8 +15,8 @@ To apply my education in Business Computer Information Systems and my diverse te
 | Rule-Based Intrusion Detection                | <a href="https://github.com/Mofaal/mofaal-IntrusionDetection/blob/main/README.md">Snort Lab</a>|
 | Network Manipulation and DNS Tactics                | <a href="https://github.com/Mofaal/eternalblue-exploitation/blob/main/README.md">Metasploit Lab</a>|
 | Trojan Deployment and Rootkit Implementation  | Under maintenance |
-| Designing and implementing Active Directory structures  | Under maintenanc|
-| Configuration of MySQL database               | Under maintenanc|
+| Designing and implementing Active Directory structures  | Under maintenance |
+| Configuration of MySQL database               | Under maintenance |
 
 
 ## Tools I've utilized
