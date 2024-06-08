@@ -5,7 +5,7 @@ I'm Mohammad Faal, a cybersecurity enthusiast and recent graduate with hands on 
 
 ## Objective
 
-To apply my education in Business Computer Information Systems and my diverse technical skills in cybersecurity to contribute effectively as a Cyber Security Analyst. With experience in implementing security protocols, incident response, and network security, I aim to enhance organizational security posture and mitigate emerging cyber threats.
+To apply my education in Business Computer Information Systems and my diverse technical skills in cybersecurity to contribute effectively to the evolving technology landscape. With experience in implementing security protocols, incident response, and network security, I aim to enhance organizational security posture and mitigate emerging cyber threats.
 
 ## Skills
 
