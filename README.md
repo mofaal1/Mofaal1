@@ -13,7 +13,7 @@ To apply my education in Business Computer Information Systems and my diverse te
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Rule-Based Intrusion Detection                | <a href="https://github.com/Mofaal/mofaal-IntrusionDetection/blob/main/README.md">Snort Lab</a>|
-| Penetration Testing Techniques                | <a href="https://google.com">Detection Lab</a>|
+| Network Manipulation and DNS Tactics                | <a href="https://github.com/Mofaal/eternalblue-exploitation/blob/main/README.md">Metasploit Lab</a>|
 | Trojan Deployment and Rootkit Implementation  | SOC Automation Lab|
 | Designing and implementing Active Directory structures  | SOC Automation Lab|
 | Configuration of MySQL database               | SOC Automation Lab|
