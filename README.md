@@ -13,8 +13,8 @@ To apply my education in Business Computer Information Systems and my diverse te
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Rule-Based Intrusion Detection                | <a href="https://github.com/Mofaal/mofaal-IntrusionDetection/blob/main/README.md">Snort Lab</a>|
-| Network Manipulation and DNS Tactics                | <a href="https://github.com/Mofaal/eternalblue-exploitation/blob/main/README.md">Metasploit Lab</a>|
-| Trojan Deployment and Rootkit Implementation  | Under maintenance |
+| Network Manipulation and DNS Tactics                | <a href="https://github.com/Mofaal/eternalblue-exploitation/blob/main/README.md"> Metasploit Lab </a>|
+| Trojan Deployment and Rootkit Implementation        | <a href="https://github.com/Mofaal1/trojan-rootkit-lab/blob/main/README.md"> Trojan and Rootkit Analysis </a>
 | Designing and implementing Active Directory structures  | Under maintenance |
 | Configuration of MySQL database               | Under maintenance |
 
